@@ -1,4 +1,4 @@
-👋 Oiê, sou fullStack Developer e essas são as principais linguagens com que trabalho 
+👋 Oiê, me chamo Itielly e essas são as principais linguagens com as quais trabalho 
 
 <div>
   <a href="https://github.com/itielly">
